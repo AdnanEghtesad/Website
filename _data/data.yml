@@ -41,23 +41,21 @@ sidebar:
         #- idiom: Spanish
         #  level: Professional
 
-    interests:
-      title: Interests
-      info:
-        - item: Nature Enthusiast 
-          link:
-        - item: Cooking
-          link:
+   # interests:
+   #   title: Interests
+   #   info:
+   #     - item: Nature Enthusiast 
+   #       link:
+   #     - item: Cooking
+   #       link:
 
 career-profile:
-    title: Career Profile
+    title: Summary
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+        -Motivated R&D scientist with considerable experience in computational Mechanics of Materials at Mutiscale, Machine learning and Artificial Neural Networks for physics-informed data driven simulations as result of collaborative work with Los Alamos National Laboratory, Penn state and Cornell
+        -Strong written and oral communication skills as demonstrated by authorship of 24 peer-reviewed articles in high-quality journals and professional presentations in international conferences within the community 
+        -Nature enthusiast with a passion for cooking (I love grilling!)
+
 education:
     title: Education
     info:
