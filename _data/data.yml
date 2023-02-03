@@ -65,15 +65,16 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: PhD in Mechanical Engineering 
+        university: University of New Hampshire 
+        time: 2016 - 2021
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          eveloped novel crystal plasticity software applications using parallel hybrid CPU (cen-
+tral processing unit) – GPU (Graphics Processing Unit) framework for micromechanical
+simulations of metallic components under large deformations, with exceptional capabil-
+ities in accurate predictions of microstructure-property-linkage, facilitating significant
+contributions to Integrated Computational Materials Engineering (ICME), furthering
+the objectives of automotive and aerospace industries.
             - Bullet point
             - Bullet point
       - degree: BSc in Applied Mathematics
