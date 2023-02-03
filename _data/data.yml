@@ -99,16 +99,15 @@ experiences:
             #- Bullet point
             #- Bullet point
       - role: Senior Software Engineer
-        time: 2014 - 2015
+        time: 2021 - 2022
         company: Google, London
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Developed a density functional theory (DFT) informed dislocation density (DD) hard-
+              ening within a high-performance crystal plasticity for modeling the flow response in
+              FCC, BCC, and HCP pure metals and multiphase metallic alloys
+            - Developed a computational framework for identification of microstructural descriptors
+              responsible for intragranular and intergranular stress and strain hotspot localizations
+              by integrating machine learning into crystal plasticity
       - role: UI Developer
         time: 2012 - 2014
         company: Amazon, London
