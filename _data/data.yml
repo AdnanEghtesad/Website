@@ -191,10 +191,10 @@ publications:
 skills:
     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & PyTorch
-        level: 98%
-     #- name: FORTRAN & MATLAB
+   #toolset:
+   #  - name: Python & PyTorch
+   #    level: 98%
+   # #- name: FORTRAN & MATLAB
      #  level: 98%
  
      #- name: High Performance Computing 
