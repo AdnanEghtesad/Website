@@ -91,11 +91,11 @@ experiences:
         time: 2014 - 2015
         company: Google, London
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          eveloping high performance machine/deep learning and neural network (NN) based
+          constitutive modelling to create a hybrid framework that can work on limited amount
+          of data by relying on the modularity of the constitutive formulation. Fundamental part
+          of this work is the design of experiments as well as the development of theoretical and
+          numerical frameworks to study and predict the flow response of metallic materials.
             - Bullet point
             - Bullet point
       - role: Senior Software Engineer
