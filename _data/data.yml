@@ -87,7 +87,7 @@ experiences:
     info:
       - role: R&D and project management expertise in Mechanical Engineering 
               Gained as a postdoctoral fellow at Cornell  
-
+       - Developed a Physics-informed Neural Networks model that improved the performance of material modeling and simulations by 20%.
         time: 2022 - Present
         company: Startup Hubs, San Francisco
         details: |
