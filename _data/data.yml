@@ -98,9 +98,9 @@ experiences:
           numerical frameworks to study and predict the flow response of metallic materials.
             #- Bullet point
             #- Bullet point
-      - role: Senior Software Engineer
+      - role: Research And Development Scientist (Postdoctoral Fellow)
         time: 2021 - 2022
-        company: Google, London
+        company: Pennsylvania State University
         details: |
             - Developed a density functional theory (DFT) informed dislocation density (DD) hard-
               ening within a high-performance crystal plasticity for modeling the flow response in
@@ -108,17 +108,16 @@ experiences:
             - Developed a computational framework for identification of microstructural descriptors
               responsible for intragranular and intergranular stress and strain hotspot localizations
               by integrating machine learning into crystal plasticity
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Research And Development Scientist (PhD)
+        time: 2016 - 2021
+        company: University of New Hampshire
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Developed novel crystal plasticity software applications using parallel hybrid CPU (cen-
+          tral processing unit) – GPU (Graphics Processing Unit) framework for micromechanical
+          simulations of metallic components under large deformations, with exceptional capabil-
+          ities in accurate predictions of microstructure-property-linkage, facilitating significant
+          contributions to Integrated Computational Materials Engineering (ICME), furthering
+          the objectives of automotive and aerospace industries.
 projects:
     title: Projects
     intro: >
