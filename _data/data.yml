@@ -17,9 +17,9 @@ sidebar:
     timezone: USA, EST.
     citizenship:
     #website: blog.webjeda.com #do not add http://
-    linkedin: AdnanEghtesad
+    linkedin: linkedin
     #xing: alandoe
-    github: AdnanEghtesad
+    github: Github
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -211,6 +211,29 @@ skills:
 
       - name: Materials Characterization 
         level: 98%
+        
+      - name: Additively Manufactured superalloys
+        level: 98%
+        
+      - name: Additively Manufactured superalloys
+        level: 98%
+        
+      - name: SolidWorks & Catia
+        level: 98%
+
+      - name: ANSYS & ABAQUS
+        level: 98%
+
+      - name: CFD & CFX
+        level: 98%
+
+      - name: FORTRAN & MATLAB
+        level: 98%
+
+      - name: GPU Computing
+        level: 98%
+        
+        
    #toolset:
    #  - name: Python & PyTorch
    #    level: 98%
