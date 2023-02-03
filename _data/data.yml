@@ -212,60 +212,57 @@ skills:
         
       - name: Multiscale Materials Modelling
         level: 98%
-        
-      - name: Multiscale Materials Modelling
-        level: 98%
-        
+         
       - name: Materials Characterization 
         level: 98%
       
-    #  name: Additive Manufacturing
-    # level: 98%
-    # 
-    #  name: Metal Forming 
-    # level: 98%
-    # 
-    # - name: Additive Manufacturing
-    # level: 98%
-    # 
-    # - name: SolidWorks & Catia
-    # level: 98%
-    # 
-    # - name: ANSYS & ABAQUS
-    # level: 98%
-    # 
-    # - name: CFD & CFX
-    # level: 98%
-    # 
-    # - name: FORTRAN & MATLAB
-    # level: 98%
-    # 
-    # - name: GPU Computing
-    # level: 98%
-    # 
-    # - name: Communication skills 
-    # level: 98%
-    # 
-    # - name: Mentorship & Leadership  
-    # level: 98%
-    # 
-    # - name: Data Analysis 
-    # level: 98%
-    # 
-    # - name: Technical Writing 
-    # level: 98%
-    # 
-    # - name: Project Management 
-    # level: 98%
-    # 
-    # - name: People Management 
-    # level: 98%
-    # 
-    # - name: Collaboration skills
-    # level: 98%
-    # 
-    # - name: Presentation skills 
-    # level: 98%
+      - name: Additive Manufacturing
+      level: 98%
+      
+      - name: Metal Forming 
+      level: 98%
+      
+      - name: Additive Manufacturing
+      level: 98%
+      
+      - name: SolidWorks & Catia
+      level: 98%
+      
+      - name: ANSYS & ABAQUS
+      level: 98%
+      
+      - name: CFD & CFX
+      level: 98%
+      
+      - name: FORTRAN & MATLAB
+      level: 98%
+      
+      - name: GPU Computing
+      level: 98%
+      
+      - name: Communication skills 
+      level: 98%
+      
+      - name: Mentorship & Leadership  
+      level: 98%
+      
+      - name: Data Analysis 
+      level: 98%
+      
+      - name: Technical Writing 
+      level: 98%
+      
+      - name: Project Management 
+      level: 98%
+      
+      - name: People Management 
+      level: 98%
+      
+      - name: Collaboration skills
+      level: 98%
+      
+      - name: Presentation skills 
+      level: 98%
      
 
 footer: >
