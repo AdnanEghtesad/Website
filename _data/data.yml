@@ -87,17 +87,17 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Research And Development Scientist
+        time: 2022 - present
+        company: Cornell University
         details: |
-          eveloping high performance machine/deep learning and neural network (NN) based
+          Developing high performance machine/deep learning and neural network (NN) based
           constitutive modelling to create a hybrid framework that can work on limited amount
           of data by relying on the modularity of the constitutive formulation. Fundamental part
           of this work is the design of experiments as well as the development of theoretical and
           numerical frameworks to study and predict the flow response of metallic materials.
-            - Bullet point
-            - Bullet point
+            #- Bullet point
+            #- Bullet point
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
