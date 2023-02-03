@@ -91,7 +91,7 @@ experiences:
         time: 2022 - present
         company: Cornell University
         details: |
-          Developing high performance machine/deep learning and neural network (NN) based
+        - Developing high performance machine/deep learning and neural network (NN) based
           constitutive modelling to create a hybrid framework that can work on limited amount
           of data by relying on the modularity of the constitutive formulation. Fundamental part
           of this work is the design of experiments as well as the development of theoretical and
@@ -112,7 +112,7 @@ experiences:
         time: 2016 - 2021
         company: University of New Hampshire
         details: |
-          Developed novel crystal plasticity software applications using parallel hybrid CPU (cen-
+        - Developed novel crystal plasticity software applications using parallel hybrid CPU (cen-
           tral processing unit) – GPU (Graphics Processing Unit) framework for micromechanical
           simulations of metallic components under large deformations, with exceptional capabil-
           ities in accurate predictions of microstructure-property-linkage, facilitating significant
