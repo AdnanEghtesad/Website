@@ -7,8 +7,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Adnan Eghtesad, PhD
-    #tagline: Full Stack Developer
+    name: Adnan Eghtesad 
+    tagline: PhD
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -23,45 +23,39 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #twitter: '@webjeda'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    #pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Persian
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
+        #- idiom: Spanish
+        #  level: Professional
 
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
+   # interests:
+   #   title: Interests
+   #   info:
+   #     - item: Nature Enthusiast 
+   #       link:
+   #     - item: Cooking
+   #       link:
 
 career-profile:
-    title: Career Profile
+    title: Summary
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+        - Motivated R&D scientist with considerable experience in computational Mechanics of Materials at Mutiscale, Machine learning and Artificial Neural Networks for physics-informed data driven simulations as result of collaborative work with Los Alamos National Laboratory, Penn state and Cornell
+        - Strong written and oral communication skills as demonstrated by authorship of 24 peer-reviewed articles in high-quality journals and professional presentations in international conferences within the community 
+        - Nature enthusiast with a passion for cooking (I love grilling!)
+
 education:
     title: Education
     info:
@@ -69,30 +63,32 @@ education:
         university: University of New Hampshire 
         time: 2016 - 2021
         details: |
-          eveloped novel crystal plasticity software applications using parallel hybrid CPU (cen-
-tral processing unit) – GPU (Graphics Processing Unit) framework for micromechanical
-simulations of metallic components under large deformations, with exceptional capabil-
-ities in accurate predictions of microstructure-property-linkage, facilitating significant
-contributions to Integrated Computational Materials Engineering (ICME), furthering
-the objectives of automotive and aerospace industries.
+          Developed novel crystal plasticity software applications using parallel hybrid CPU (cen-
+          tral processing unit) – GPU (Graphics Processing Unit) framework for micromechanical
+          simulations of metallic components under large deformations, with exceptional capabil-
+          ities in accurate predictions of microstructure-property-linkage, facilitating significant
+          contributions to Integrated Computational Materials Engineering (ICME), furthering
+          the objectives of automotive and aerospace industries.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: BSc in Mechanical Engineering 
+        university: Shiraz University
+        time: 2004 - 2008
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          #Describe your study here lorem ipsum dolor sit amet, consectetuer
+          #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          #sociis natoque penatibus et magnis dis parturient montes, nascetur
+          #ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          #pretium quis, sem.
+          #  - Bullet point
+          #  - Bullet point
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
+      - role: R&D and project management expertise in Mechanical Engineering 
+              Gained as a postdoctoral fellow at Cornell  
+
+        time: 2022 - Present
         company: Startup Hubs, San Francisco
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -200,23 +196,81 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python & PyTorch
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: FORTRAN & MATLAB
+        level: 98%
+ 
+      - name: High Performance Computing 
         level: 98%
 
-      - name: Angular
+      - name: Computer Aided Design (CAD)
+        level: 98%
+        
+      - name: Code Development (GitHub)
         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Machine & Deep Learning
+        level: 98%
+        
+      - name: Multiscale Materials Modelling
+        level: 98%
+        
+       - name: Multiscale Materials Modelling
+        level: 98%
+        
+       - name: Materials Characterization 
+        level: 98%
+        
+       - name: Additive Manufacturing
+        level: 98%
+        
+        - name: Metal Forming 
+        level: 98%
+        
+        - name: Additive Manufacturing
+        level: 98%
+        
+        - name: SolidWorks & Catia
+        level: 98%
+        
+        - name: ANSYS & ABAQUS
+        level: 98%
+        
+        - name: CFD & CFX
+        level: 98%
+        
+        - name: FORTRAN & MATLAB
+        level: 98%
+        
+        - name: GPU Computing
+        level: 98%
+        
+        - name: Communication skills 
+        level: 98%
+        
+        - name: Mentorship & Leadership  
+        level: 98%
+        
+        - name: Data Analysis 
+        level: 98%
+        
+        - name: Technical Writing 
+        level: 98%
+        
+        - name: Project Management 
+        level: 98%
+        
+        - name: People Management 
+        level: 98%
+        
+        - name: Collaboration skills
+        level: 98%
+       
+        - name: Presentation skills 
+        level: 98%
+     
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
