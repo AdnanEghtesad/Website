@@ -12,14 +12,14 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: ae386@cornell.edu
+    phone: 603 767 9417
+    timezone: USA, EST.
     citizenship:
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    linkedin: https://www.linkedin.com/in/adnaneghtesad/
+    #xing: alandoe
+    github: https://github.com/AdnanEghtesad/
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
