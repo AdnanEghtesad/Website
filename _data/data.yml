@@ -52,9 +52,9 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-        -Motivated R&D scientist with considerable experience in computational Mechanics of Materials at Mutiscale, Machine learning and Artificial Neural Networks for physics-informed data driven simulations as result of collaborative work with Los Alamos National Laboratory, Penn state and Cornell
-        -Strong written and oral communication skills as demonstrated by authorship of 24 peer-reviewed articles in high-quality journals and professional presentations in international conferences within the community 
-        -Nature enthusiast with a passion for cooking (I love grilling!)
+        - Motivated R&D scientist with considerable experience in computational Mechanics of Materials at Mutiscale, Machine learning and Artificial Neural Networks for physics-informed data driven simulations as result of collaborative work with Los Alamos National Laboratory, Penn state and Cornell
+        - Strong written and oral communication skills as demonstrated by authorship of 24 peer-reviewed articles in high-quality journals and professional presentations in international conferences within the community 
+        - Nature enthusiast with a passion for cooking (I love grilling!)
 
 education:
     title: Education
@@ -85,8 +85,10 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
+      - role: R&D and project management expertise in Mechanical Engineering 
+              Gained as a postdoctoral fellow at Cornell  
+
+        time: 2022 - Present
         company: Startup Hubs, San Francisco
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
