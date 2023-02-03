@@ -194,12 +194,11 @@ skills:
     toolset:
       - name: Python & PyTorch
         level: 98%
-
-      - name: FORTRAN & MATLAB
-        level: 98%
+     #- name: FORTRAN & MATLAB
+     #  level: 98%
  
-      - name: High Performance Computing 
-        level: 98%
+     #- name: High Performance Computing 
+     #  level: 98%
 
      #- name: Computer Aided Design (CAD)
      #  level: 98%
