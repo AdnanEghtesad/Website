@@ -168,24 +168,24 @@ experiences:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: High Throughput Computational Framework of Materials Properties for Extreme Environments
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Zi-Kui Liu, Shun-Li Shang, Allison M Beese, Yi Wang, Adnan Eghtesad, John Shimanek, Shipin Qin, Shuang Lin, Hui Sun, Brandon Bocklund
+   #     conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+   #   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+   #     link: "#"
+   #     authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+   #     conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+ 
+   #   - title: A syntax directed compiler for Algol 60
+   #     link: "#"
+   #     authors: Edgar T. Irons
+   #     conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
@@ -209,10 +209,7 @@ skills:
         level: 98%
 
       - name: Materials Characterization 
-        level: 98%
-        
-      - name: Additively Manufactured superalloys
-        level: 98%
+        level: 50%
         
       - name: Additively Manufactured superalloys
         level: 98%
@@ -255,7 +252,7 @@ skills:
      #  level: 98%
      #   
      #- name: Materials Characterization 
-     #  level: 98%
+     #  level: 50%
      #
      #- name: Additive Manufacturing
      #  level: 98%
