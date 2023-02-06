@@ -172,35 +172,35 @@ publications:
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #      bibendum fringilla a eu lectus.
     papers:
-       - title: High Throughput Computational Framework of Materials Properties for Extreme Environments, 2022 
+       - title: High Throughput Computational Framework of Materials Properties for Extreme Environments
          link: "https://www.osti.gov/biblio/1907945"
          authors: Zi-Kui Liu, Shun-Li Shang, Allison M Beese, Yi Wang, Adnan Eghtesad, John Shimanek, Shipin Qin, Shuang Lin, Hui Sun, Brandon Bocklund 
-         conference: "Pennsylvania State Univ., University Park, PA (United States)"
+         conference: "Pennsylvania State Univ., University Park, PA, 2022 "
        - title: Density functional theory informed dislocation density hardening within crystal plasticity, Application to modeling deformation of Ni polycrystals
          link: "https://www.sciencedirect.com/science/article/pii/S0927025622005146"
          authors: Adnan Eghtesad, John D Shimanek, Shun-Li Shang, Ricardo Lebensohn, Marko Knezevic, Zi-Kui Liu, Allison M Beese
-         conference: "Computational Materials Science 215, 111803"
+         conference: "Computational Materials Science 215, 111803, 2022"
        - title: Coupling of a multi-GPU accelerated elasto-visco-plastic fast Fourier transform constitutive model with the implicit finite element method
          link: "https://www.sciencedirect.com/science/article/pii/S092702562200132X"
          authors: Eghtesad, Adnan and Germaschewski, Kai and Marko Knezevic 
-         conference: "Computational Materials Science 208, 111348"
+         conference: "Computational Materials Science 208, 111348, 2022"
+       - title: Modeling cyclic plasticity of additively manufactured alloy MarM509 using a high-performance spectral-based micromechanical model
+         link: "https://www.sciencedirect.com/science/article/pii/S2666496821000315"
+         authors: A Eghtesad, M Knezevic
+         conference: "Applications in Engineering Science, 2021"
        - title: Modeling cyclic plasticity of additively manufactured alloy MarM509 using a high-performance spectral-based micromechanical model
          link: "https://www.sciencedirect.com/science/article/pii/S2666496821000315"
          authors: A Eghtesad, M Knezevic
          conference: "Applications in Engineering Science"
-       - title: Modeling cyclic plasticity of additively manufactured alloy MarM509 using a high-performance spectral-based micromechanical model
-         link: "https://www.sciencedirect.com/science/article/pii/S2666496821000315"
-         authors: A Eghtesad, M Knezevic
-         conference: "Applications in Engineering Science"
-   #   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-   #     link: "#"
-   #     authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-   #     conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
- 
-   #   - title: A syntax directed compiler for Algol 60
-   #     link: "#"
-   #     authors: Edgar T. Irons
-   #     conference: "Comm. ACM 4 (1961), 51–55"
+       - title: A High Performance Full Field Crystal Plasticity Solver within Finite Elements for Micromechanical Simulation of Metallic Components Under Large Deformations
+         link: "https://www.proquest.com/openview/b154771b795c89ee2b52efb9a2e11954/1?pq-origsite=gscholar&cbl=18750&diss=y"
+         authors: A Eghtesad 
+         conference: "University of New Hampshire ProQuest Dissertations Publishing, 28720608, 2021"
+       - title: A full field crystal plasticity model including the effects of precipitates, Application to monotonic, load reversal, and low-cycle fatigue behavior of Inconel 718
+         link: "https://www.sciencedirect.com/science/article/pii/S0921509320315410"
+         authors: A Eghtesad 
+         conference: "University of New Hampshire ProQuest Dissertations Publishing, 28720608, 2021"
+
 
 skills:
     title: Skills &amp; Proficiency
