@@ -236,7 +236,7 @@ publications:
          link: "https://link.springer.com/article/10.1007/s00466-017-1413-4"
          authors: Adnan Eghtesad, Miroslav Zecevic, Ricardo A Lebensohn, Rodney J McCabe, Marko Knezevic
          conference: "Computational Mechanics, 2018"      
-       - title: Graphics processing unit accelerated phase field dislocation dynamics: Application to bi-metallic interfaces
+       - title: Graphics processing unit accelerated phase field dislocation dynamics, Application to bi metallic interfaces
          link: "https://www.sciencedirect.com/science/article/pii/S0965997817309158"
          authors: Adnan Eghtesad, Kai Germaschewski, Irene J Beyerlein, Abigail Hunter, Marko Knezevic
          conference: "Advances in Engineering Software, 2018"   \
