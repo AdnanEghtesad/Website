@@ -198,9 +198,12 @@ publications:
          conference: "University of New Hampshire ProQuest Dissertations Publishing, 28720608, 2021"
        - title: A full field crystal plasticity model including the effects of precipitates, Application to monotonic, load reversal, and low-cycle fatigue behavior of Inconel 718
          link: "https://www.sciencedirect.com/science/article/pii/S0921509320315410"
-         authors: A Eghtesad 
-         conference: "University of New Hampshire ProQuest Dissertations Publishing, 28720608, 2021"
-
+         authors: A Eghtesad, M Knezevic
+         conference: "Materials Science and Engineering: A, 140478, 2020"
+       - title: A multi GPU implementation of a full field crystal plasticity solver for efficient modeling of high resolution microstructures
+         link: "https://www.sciencedirect.com/science/article/pii/S0010465520300655"
+         authors: A Eghtesad, K Germaschewski, RA Lebensohn, M Knezevic
+         conference: "Computer Physics Communications 254, 107231, 2020"
 
 skills:
     title: Skills &amp; Proficiency
