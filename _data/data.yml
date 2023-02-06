@@ -164,94 +164,6 @@ experiences:
 #      - title: Delta
 #        link: "#"
 #        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-#      You can list your publications in this section. Lorem ipsum dolor sit
-#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#      bibendum fringilla a eu lectus.
-    papers:
-       - title: High Throughput Computational Framework of Materials Properties for Extreme Environments
-         link: "https://www.osti.gov/biblio/1907945"
-         authors: Zi-Kui Liu, Shun-Li Shang, Allison M Beese, Yi Wang, Adnan Eghtesad, John Shimanek, Shipin Qin, Shuang Lin, Hui Sun, Brandon Bocklund 
-         conference: "Pennsylvania State Univ., University Park, PA, 2022 "
-       - title: Density functional theory informed dislocation density hardening within crystal plasticity, Application to modeling deformation of Ni polycrystals
-         link: "https://www.sciencedirect.com/science/article/pii/S0927025622005146"
-         authors: Adnan Eghtesad, John D Shimanek, Shun-Li Shang, Ricardo Lebensohn, Marko Knezevic, Zi-Kui Liu, Allison M Beese
-         conference: "Computational Materials Science 215, 111803, 2022"
-       - title: Coupling of a multi-GPU accelerated elasto-visco-plastic fast Fourier transform constitutive model with the implicit finite element method
-         link: "https://www.sciencedirect.com/science/article/pii/S092702562200132X"
-         authors: Eghtesad, Adnan and Germaschewski, Kai and Marko Knezevic 
-         conference: "Computational Materials Science 208, 111348, 2022"
-       - title: Modeling cyclic plasticity of additively manufactured alloy MarM509 using a high-performance spectral-based micromechanical model
-         link: "https://www.sciencedirect.com/science/article/pii/S2666496821000315"
-         authors: A Eghtesad, M Knezevic
-         conference: "Applications in Engineering Science, 2021"
-       - title: Modeling cyclic plasticity of additively manufactured alloy MarM509 using a high-performance spectral-based micromechanical model
-         link: "https://www.sciencedirect.com/science/article/pii/S2666496821000315"
-         authors: A Eghtesad, M Knezevic
-         conference: "Applications in Engineering Science"
-       - title: A High Performance Full Field Crystal Plasticity Solver within Finite Elements for Micromechanical Simulation of Metallic Components Under Large Deformations
-         link: "https://www.proquest.com/openview/b154771b795c89ee2b52efb9a2e11954/1?pq-origsite=gscholar&cbl=18750&diss=y"
-         authors: A Eghtesad 
-         conference: "University of New Hampshire ProQuest Dissertations Publishing, 28720608, 2021"
-       - title: A full field crystal plasticity model including the effects of precipitates, Application to monotonic, load reversal, and low-cycle fatigue behavior of Inconel 718
-         link: "https://www.sciencedirect.com/science/article/pii/S0921509320315410"
-         authors: A Eghtesad, M Knezevic
-         conference: "Materials Science and Engineering: A, 140478, 2020"
-       - title: A multi GPU implementation of a full field crystal plasticity solver for efficient modeling of high resolution microstructures
-         link: "https://www.sciencedirect.com/science/article/pii/S0010465520300655"
-         authors: A Eghtesad, K Germaschewski, RA Lebensohn, M Knezevic
-         conference: "Computer Physics Communications 254, 107231, 2020"
-       - title: High performance full field crystal plasticity with dislocation based hardening and slip system back-stress laws, Application to modeling deformation of dual phase steels
-         link: "https://www.sciencedirect.com/science/article/pii/S0022509619305812"
-         authors: A Eghtesad, M Knezevic
-         conference: "Journal of the Mechanics and Physics of Solids, 2019"
-       - title: A generalized spherical harmonics based procedure for the interpolation of partial datasets of orientation distributions to enable crystal mechanics-based simulations
-         link: "https://www.sciencedirect.com/science/article/pii/S2589152919301243"
-         authors: Timothy J. Barrett, Adnan Eghtesad, Rodney J. McCabe, Bjørn Clausen, Donald W. Brown, Sven C. Vogel, Marko Knezevic
-         conference: "Materialia, 2019"  
-       - title: Procedures for the Interpolation of Orientation Distributions from Coarse Grid Experimental Measurements to Fine Grid Finite Element Meshes
-         link: "https://www.researchgate.net/publication/331939127_Procedures_for_the_Interpolation_of_Orientation_Distributions_from_Coarse_Grid_Experimental_Measurements_to_Fine_Grid_Finite_Element_Meshes"
-         authors: TJ Barrett, A Eghtesad, McCabe, R J., V S.C, M Knezevic
-         conference: "TMS 2018 148th Annual Meeting & Exhibition, San Antonio, Texas, March 10-14, 2019" 
-       - title: Predicting elastic anisotropy of dual phase steels based on crystal mechanics and microstructure
-         link: "https://www.sciencedirect.com/science/article/pii/S0020740318337238"
-         authors: AM Cantara, M Zecevic, A Eghtesad, CM Poulin, M Knezevic
-         conference: "International Journal of Mechanical Sciences 151, 639-649, 2019"   
-       - title: Compact reconstruction of orientation distributions using generalized spherical harmonics to advance large scale crystal plasticity modeling, Verification using cubic, hexagonal, and orthorhombic polycrystals
-         link: "https://www.sciencedirect.com/science/article/pii/S1359645418304853"
-         authors: Adnan Eghtesad, Timothy J Barrett, Marko Knezevic
-         conference: "Acta Materialia, 2018"
-       - title: A Domain Decomposition Parallel Implementation of an Elasto viscoplastic Coupled elasto plastic Fast Fourier Transform Micromechanical Solver with Spectral Database
-         link: "https://www.researchgate.net/publication/329774176_A_Domain_Decomposition_Parallel_Implementation_of_an_Elasto-viscoplastic_Coupled_elasto-plastic_Fast_Fourier_Transform_Micromechanical_Solver_with_Spectral_Database_Constitutive_Representation"
-         authors: Adnan Eghtesad, Timothy Barret, Kai Germaschewski, Ricardo A Lebensohn, Rodney J Mcabe, Marko Knezevic
-         conference: "TMS 2018 147 Annual Meeting & Exhibition, Phoenix, Arizona, March 11-15, 2018" 
-       - title: GPU accelerated Phase Field Dislocation Dynamics (PFDD), Application to bi metallic interfaces
-         link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DUzNBKoAAAAJ&sortby=pubdate&citation_for_view=DUzNBKoAAAAJ:8k81kl-MbHgC"
-         authors: Adnan Eghtesad, Kai Germaschewski, Irene J Beyerlein, Abigail Hunter, Marko Knezevic
-         conference: "TMS 2018 147 Annual Meeting & Exhibition, Phoenix, Arizona, March 11-15, 2018" 
-       - title: Spectral database constitutive representation within a spectral micromechanical solver for computationally efficient polycrystal plasticity modelling
-         link: "https://link.springer.com/article/10.1007/s00466-017-1413-4"
-         authors: Adnan Eghtesad, Miroslav Zecevic, Ricardo A Lebensohn, Rodney J McCabe, Marko Knezevic
-         conference: "Computational Mechanics, 2018"      
-       - title: Graphics processing unit accelerated phase field dislocation dynamics, Application to bi metallic interfaces
-         link: "https://www.sciencedirect.com/science/article/pii/S0965997817309158"
-         authors: Adnan Eghtesad, Kai Germaschewski, Irene J Beyerlein, Abigail Hunter, Marko Knezevic
-         conference: "Advances in Engineering Software, 2018"  
-       - title: A new approach to fluid structure interaction within graphics hardware accelerated smooth particle hydrodynamics considering heterogeneous particle size distribution
-         link: "https://link.springer.com/article/10.1007/s40571-017-0176-1"
-         authors: Adnan Eghtesad, Marko Knezevic
-         conference: "Computational Particle Mechanics, 2017"  
-       - title: Body deformation study in a Formula One race car crashing into a rigid barrier at different crash angles
-         link: "https://www.tandfonline.com/doi/abs/10.1080/13588265.2012.661657"
-         authors: Adnan Eghtesad, AR Shafiei
-         conference: "International journal of crashworthiness, 2012"
-       - title: Study of dynamic behavior of ceramic metal FGM under high velocity impact conditions using CSPM method
-         link: "https://www.sciencedirect.com/science/article/pii/S0307904X11006159"
-         authors: Adnan Eghtesad, AR Shafiei, M Mahzoon
-         conference: "Applied Mathematical Modelling, 2012"
 skills:
     title: Skills &amp; Proficiency
     toolset:
@@ -366,6 +278,113 @@ skills:
      #
      #- name: Presentation skills 
      #  level: 98%
+publications:
+    title: Publications
+    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+    papers:
+       - title: High Throughput Computational Framework of Materials Properties for Extreme Environments
+         link: "https://www.osti.gov/biblio/1907945"
+         authors: Zi-Kui Liu, Shun-Li Shang, Allison M Beese, Yi Wang, Adnan Eghtesad, John Shimanek, Shipin Qin, Shuang Lin, Hui Sun, Brandon Bocklund 
+         conference: "Pennsylvania State Univ., University Park, PA, 2022 "
+       - title: Density functional theory informed dislocation density hardening within crystal plasticity, Application to modeling deformation of Ni polycrystals
+         link: "https://www.sciencedirect.com/science/article/pii/S0927025622005146"
+         authors: Adnan Eghtesad, John D Shimanek, Shun-Li Shang, Ricardo Lebensohn, Marko Knezevic, Zi-Kui Liu, Allison M Beese
+         conference: "Computational Materials Science 215, 111803, 2022"
+       - title: Coupling of a multi-GPU accelerated elasto-visco-plastic fast Fourier transform constitutive model with the implicit finite element method
+         link: "https://www.sciencedirect.com/science/article/pii/S092702562200132X"
+         authors: Eghtesad, Adnan and Germaschewski, Kai and Marko Knezevic 
+         conference: "Computational Materials Science 208, 111348, 2022"
+       - title: Modeling cyclic plasticity of additively manufactured alloy MarM509 using a high-performance spectral-based micromechanical model
+         link: "https://www.sciencedirect.com/science/article/pii/S2666496821000315"
+         authors: A Eghtesad, M Knezevic
+         conference: "Applications in Engineering Science, 2021"
+       - title: Modeling cyclic plasticity of additively manufactured alloy MarM509 using a high-performance spectral-based micromechanical model
+         link: "https://www.sciencedirect.com/science/article/pii/S2666496821000315"
+         authors: A Eghtesad, M Knezevic
+         conference: "Applications in Engineering Science"
+       - title: A High Performance Full Field Crystal Plasticity Solver within Finite Elements for Micromechanical Simulation of Metallic Components Under Large Deformations
+         link: "https://www.proquest.com/openview/b154771b795c89ee2b52efb9a2e11954/1?pq-origsite=gscholar&cbl=18750&diss=y"
+         authors: A Eghtesad 
+         conference: "University of New Hampshire ProQuest Dissertations Publishing, 28720608, 2021"
+       - title: A full field crystal plasticity model including the effects of precipitates, Application to monotonic, load reversal, and low-cycle fatigue behavior of Inconel 718
+         link: "https://www.sciencedirect.com/science/article/pii/S0921509320315410"
+         authors: A Eghtesad, M Knezevic
+         conference: "Materials Science and Engineering: A, 140478, 2020"
+       - title: A multi GPU implementation of a full field crystal plasticity solver for efficient modeling of high resolution microstructures
+         link: "https://www.sciencedirect.com/science/article/pii/S0010465520300655"
+         authors: A Eghtesad, K Germaschewski, RA Lebensohn, M Knezevic
+         conference: "Computer Physics Communications 254, 107231, 2020"
+       - title: High performance full field crystal plasticity with dislocation based hardening and slip system back-stress laws, Application to modeling deformation of dual phase steels
+         link: "https://www.sciencedirect.com/science/article/pii/S0022509619305812"
+         authors: A Eghtesad, M Knezevic
+         conference: "Journal of the Mechanics and Physics of Solids, 2019"
+       - title: A generalized spherical harmonics based procedure for the interpolation of partial datasets of orientation distributions to enable crystal mechanics-based simulations
+         link: "https://www.sciencedirect.com/science/article/pii/S2589152919301243"
+         authors: Timothy J. Barrett, Adnan Eghtesad, Rodney J. McCabe, Bjørn Clausen, Donald W. Brown, Sven C. Vogel, Marko Knezevic
+         conference: "Materialia, 2019"  
+       - title: Procedures for the Interpolation of Orientation Distributions from Coarse Grid Experimental Measurements to Fine Grid Finite Element Meshes
+         link: "https://www.researchgate.net/publication/331939127_Procedures_for_the_Interpolation_of_Orientation_Distributions_from_Coarse_Grid_Experimental_Measurements_to_Fine_Grid_Finite_Element_Meshes"
+         authors: TJ Barrett, A Eghtesad, McCabe, R J., V S.C, M Knezevic
+         conference: "TMS 2018 148th Annual Meeting & Exhibition, San Antonio, Texas, March 10-14, 2019" 
+       - title: Predicting elastic anisotropy of dual phase steels based on crystal mechanics and microstructure
+         link: "https://www.sciencedirect.com/science/article/pii/S0020740318337238"
+         authors: AM Cantara, M Zecevic, A Eghtesad, CM Poulin, M Knezevic
+         conference: "International Journal of Mechanical Sciences 151, 639-649, 2019"   
+       - title: Compact reconstruction of orientation distributions using generalized spherical harmonics to advance large scale crystal plasticity modeling, Verification using cubic, hexagonal, and orthorhombic polycrystals
+         link: "https://www.sciencedirect.com/science/article/pii/S1359645418304853"
+         authors: Adnan Eghtesad, Timothy J Barrett, Marko Knezevic
+         conference: "Acta Materialia, 2018"
+       - title: A Domain Decomposition Parallel Implementation of an Elasto viscoplastic Coupled elasto plastic Fast Fourier Transform Micromechanical Solver with Spectral Database
+         link: "https://www.researchgate.net/publication/329774176_A_Domain_Decomposition_Parallel_Implementation_of_an_Elasto-viscoplastic_Coupled_elasto-plastic_Fast_Fourier_Transform_Micromechanical_Solver_with_Spectral_Database_Constitutive_Representation"
+         authors: Adnan Eghtesad, Timothy Barret, Kai Germaschewski, Ricardo A Lebensohn, Rodney J Mcabe, Marko Knezevic
+         conference: "TMS 2018 147 Annual Meeting & Exhibition, Phoenix, Arizona, March 11-15, 2018" 
+       - title: GPU accelerated Phase Field Dislocation Dynamics (PFDD), Application to bi metallic interfaces
+         link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DUzNBKoAAAAJ&sortby=pubdate&citation_for_view=DUzNBKoAAAAJ:8k81kl-MbHgC"
+         authors: Adnan Eghtesad, Kai Germaschewski, Irene J Beyerlein, Abigail Hunter, Marko Knezevic
+         conference: "TMS 2018 147 Annual Meeting & Exhibition, Phoenix, Arizona, March 11-15, 2018" 
+       - title: Spectral database constitutive representation within a spectral micromechanical solver for computationally efficient polycrystal plasticity modelling
+         link: "https://link.springer.com/article/10.1007/s00466-017-1413-4"
+         authors: Adnan Eghtesad, Miroslav Zecevic, Ricardo A Lebensohn, Rodney J McCabe, Marko Knezevic
+         conference: "Computational Mechanics, 2018"      
+       - title: Graphics processing unit accelerated phase field dislocation dynamics, Application to bi metallic interfaces
+         link: "https://www.sciencedirect.com/science/article/pii/S0965997817309158"
+         authors: Adnan Eghtesad, Kai Germaschewski, Irene J Beyerlein, Abigail Hunter, Marko Knezevic
+         conference: "Advances in Engineering Software, 2018"  
+       - title: A new approach to fluid structure interaction within graphics hardware accelerated smooth particle hydrodynamics considering heterogeneous particle size distribution
+         link: "https://link.springer.com/article/10.1007/s40571-017-0176-1"
+         authors: Adnan Eghtesad, Marko Knezevic
+         conference: "Computational Particle Mechanics, 2017"  
+       - title: Body deformation study in a Formula One race car crashing into a rigid barrier at different crash angles
+         link: "https://www.tandfonline.com/doi/abs/10.1080/13588265.2012.661657"
+         authors: Adnan Eghtesad, AR Shafiei
+         conference: "International journal of crashworthiness, 2012"
+       - title: Study of dynamic behavior of ceramic metal FGM under high velocity impact conditions using CSPM method
+         link: "https://www.sciencedirect.com/science/article/pii/S0307904X11006159"
+         authors: Adnan Eghtesad, AR Shafiei, M Mahzoon
+         conference: "Applied Mathematical Modelling, 2012"
+       - title: A new fluid–solid interface algorithm for simulating fluid structure problems in FGM plates
+         link: "https://www.sciencedirect.com/science/article/pii/S0889974612000473"
+         authors: Adnan Eghtesad, AR Shafiei, M Mahzoon
+         conference: "Journal of Fluids and Structures, 2012"
+       - title: A new fluid–solid interface algorithm for simulating fluid structure problems in FGM plates
+         link: "https://www.sciencedirect.com/science/article/pii/S0889974612000473"
+         authors: Adnan Eghtesad, AR Shafiei, M Mahzoon
+         conference: "Journal of Fluids and Structures, 2012"
+       - title: Investigation of impact and fracture in brittle materials using Smoothed Particle Hydrodynamics
+         link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DUzNBKoAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DUzNBKoAAAAJ:ufrVoPGSRksC"
+         authors: Adnan Eghtesad 
+         conference: "ISME, 2012"  
+       - title: Predicting fracture and fragmentation in ceramic using a thermo-mechanical basis
+         link: "https://www.sciencedirect.com/science/article/pii/S0167844211000760"
+         authors: Adnan Eghtesad, AR Shafiei, M Mahzoon
+         conference: "Theoretical and Applied Fracture Mechanics, 2011" 
+       - title: A general comparative study in long rod penetration using corrective smoothed particle method
+         link: "https://upcommons.upc.edu/handle/2117/189900"
+         authors: Adnan EGHTESAD, AR SHAFIEI
+         conference: "International Conference on Particle Based Methods (PARTICLES) , II International Conference on Particle-Based Methods, fundamentals and applications (PARTICLES 2011), Barcelona, 26-28 October, 2011"   
      
 
 footer: >
