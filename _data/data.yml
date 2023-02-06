@@ -220,10 +220,38 @@ publications:
          link: "https://www.sciencedirect.com/science/article/pii/S0020740318337238"
          authors: AM Cantara, M Zecevic, A Eghtesad, CM Poulin, M Knezevic
          conference: "International Journal of Mechanical Sciences 151, 639-649, 2019"   
-       - title: OpenMP and MPI implementations of an elasto viscoplastic fast Fourier transform based micromechanical solver for fast crystal plasticity modeling
-         link: "https://www.sciencedirect.com/science/article/pii/S0965997818304186"
-         authors: Adnan Eghtesad, Timothy J. Barrett, Kai Germaschewski, Ricardo A. Lebensohn, Rodney J. McCabe, Marko Knezevic
-         conference: "Advances in Engineering Software., 2018"
+       - title: Compact reconstruction of orientation distributions using generalized spherical harmonics to advance large scale crystal plasticity modeling, Verification using cubic, hexagonal, and orthorhombic polycrystals
+         link: "https://www.sciencedirect.com/science/article/pii/S1359645418304853"
+         authors: Adnan Eghtesad, Timothy J Barrett, Marko Knezevic
+         conference: "Acta Materialia, 2018"
+       - title: A Domain Decomposition Parallel Implementation of an Elasto viscoplastic Coupled elasto plastic Fast Fourier Transform Micromechanical Solver with Spectral Database
+         link: "https://www.researchgate.net/publication/329774176_A_Domain_Decomposition_Parallel_Implementation_of_an_Elasto-viscoplastic_Coupled_elasto-plastic_Fast_Fourier_Transform_Micromechanical_Solver_with_Spectral_Database_Constitutive_Representation"
+         authors: Adnan Eghtesad, Timothy Barret, Kai Germaschewski, Ricardo A Lebensohn, Rodney J Mcabe, Marko Knezevic
+         conference: "TMS 2018 147 Annual Meeting & Exhibition, Phoenix, Arizona, March 11-15, 2018" 
+       - title: GPU accelerated Phase Field Dislocation Dynamics (PFDD), Application to bi metallic interfaces
+         link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DUzNBKoAAAAJ&sortby=pubdate&citation_for_view=DUzNBKoAAAAJ:8k81kl-MbHgC"
+         authors: Adnan Eghtesad, Kai Germaschewski, Irene J Beyerlein, Abigail Hunter, Marko Knezevic
+         conference: "TMS 2018 147 Annual Meeting & Exhibition, Phoenix, Arizona, March 11-15, 2018" 
+       - title: Spectral database constitutive representation within a spectral micromechanical solver for computationally efficient polycrystal plasticity modelling
+         link: "https://link.springer.com/article/10.1007/s00466-017-1413-4"
+         authors: Adnan Eghtesad, Miroslav Zecevic, Ricardo A Lebensohn, Rodney J McCabe, Marko Knezevic
+         conference: "Computational Mechanics, 2018"      
+       - title: Graphics processing unit accelerated phase field dislocation dynamics: Application to bi-metallic interfaces
+         link: "https://www.sciencedirect.com/science/article/pii/S0965997817309158"
+         authors: Adnan Eghtesad, Kai Germaschewski, Irene J Beyerlein, Abigail Hunter, Marko Knezevic
+         conference: "Advances in Engineering Software, 2018"   \
+       - title: A new approach to fluid structure interaction within graphics hardware accelerated smooth particle hydrodynamics considering heterogeneous particle size distribution
+         link: "https://link.springer.com/article/10.1007/s40571-017-0176-1"
+         authors: Adnan Eghtesad, Marko Knezevic
+         conference: "Computational Particle Mechanics, 2017"  
+       - title: Body deformation study in a Formula One race car crashing into a rigid barrier at different crash angles
+         link: "https://www.tandfonline.com/doi/abs/10.1080/13588265.2012.661657"
+         authors: Adnan Eghtesad, AR Shafiei
+         conference: "International journal of crashworthiness, 2012"
+       - title: Study of dynamic behavior of ceramic metal FGM under high velocity impact conditions using CSPM method
+         link: "https://www.sciencedirect.com/science/article/pii/S0307904X11006159"
+         authors: Adnan Eghtesad, AR Shafiei, M Mahzoon
+         conference: "Applied Mathematical Modelling, 2012"
 skills:
     title: Skills &amp; Proficiency
     toolset:
