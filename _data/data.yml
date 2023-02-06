@@ -175,7 +175,7 @@ publications:
        - title: High Throughput Computational Framework of Materials Properties for Extreme Environments
          link: "https://www.osti.gov/biblio/1907945"
          authors: Zi-Kui Liu, Shun-Li Shang, Allison M Beese, Yi Wang, Adnan Eghtesad, John Shimanek, Shipin Qin, Shuang Lin, Hui Sun, Brandon Bocklund  
-         conference: "Pennsylvania State Univ., University Park, PA (United States)"
+       #conference: "Pennsylvania State Univ., University Park, PA (United States)"
        #- title: Density functional theory-informed dislocation density hardening within crystal plasticity: Application to modeling deformation of Ni polycrystals
        #  link: "https://www.sciencedirect.com/science/article/pii/S0927025622005146"
        #  authors: Eghtesad, Adnan and Shimanek, John D, Shun-Li Shang, Ricardo Lebensohn, Marko Knezevic, Zi-Kui Liu, and Allison M Beese
