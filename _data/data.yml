@@ -365,7 +365,26 @@ publications:
          link: "https://www.sciencedirect.com/science/article/pii/S0307904X11006159"
          authors: Adnan Eghtesad, AR Shafiei, M Mahzoon
          conference: "Applied Mathematical Modelling, 2012"
-
+       - title: A new fluid–solid interface algorithm for simulating fluid structure problems in FGM plates
+         link: "https://www.sciencedirect.com/science/article/pii/S0889974612000473"
+         authors: Adnan Eghtesad, AR Shafiei, M Mahzoon
+         conference: "Journal of Fluids and Structures, 2012"
+       - title: A new fluid–solid interface algorithm for simulating fluid structure problems in FGM plates
+         link: "https://www.sciencedirect.com/science/article/pii/S0889974612000473"
+         authors: Adnan Eghtesad, AR Shafiei, M Mahzoon
+         conference: "Journal of Fluids and Structures, 2012"
+       - title: Investigation of impact and fracture in brittle materials using Smoothed Particle Hydrodynamics
+         link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DUzNBKoAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=DUzNBKoAAAAJ:ufrVoPGSRksC"
+         authors: Adnan Eghtesad 
+         conference: "ISME, 2012"  
+       - title: Predicting fracture and fragmentation in ceramic using a thermo-mechanical basis
+         link: "https://www.sciencedirect.com/science/article/pii/S0167844211000760"
+         authors: Adnan Eghtesad, AR Shafiei, M Mahzoon
+         conference: "Theoretical and Applied Fracture Mechanics, 2011" 
+       - title: A general comparative study in long rod penetration using corrective smoothed particle method
+         link: "https://upcommons.upc.edu/handle/2117/189900"
+         authors: Adnan EGHTESAD, AR SHAFIEI
+         conference: "International Conference on Particle Based Methods (PARTICLES) , II International Conference on Particle-Based Methods, fundamentals and applications (PARTICLES 2011), Barcelona, 26-28 October, 2011"   
      
 
 footer: >
