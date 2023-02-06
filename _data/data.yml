@@ -204,7 +204,26 @@ publications:
          link: "https://www.sciencedirect.com/science/article/pii/S0010465520300655"
          authors: A Eghtesad, K Germaschewski, RA Lebensohn, M Knezevic
          conference: "Computer Physics Communications 254, 107231, 2020"
-
+       - title: High performance full field crystal plasticity with dislocation based hardening and slip system back-stress laws, Application to modeling deformation of dual phase steels
+         link: "https://www.sciencedirect.com/science/article/pii/S0022509619305812"
+         authors: A Eghtesad, M Knezevic
+         conference: "Journal of the Mechanics and Physics of Solids, 2019"
+       - title: A generalized spherical harmonics based procedure for the interpolation of partial datasets of orientation distributions to enable crystal mechanics-based simulations
+         link: "https://www.sciencedirect.com/science/article/pii/S2589152919301243"
+         authors: Timothy J. Barrett, Adnan Eghtesad, Rodney J. McCabe, Bjørn Clausen, Donald W. Brown, Sven C. Vogel, Marko Knezevic
+         conference: "Materialia, 2019"  
+       - title: Procedures for the Interpolation of Orientation Distributions from Coarse Grid Experimental Measurements to Fine Grid Finite Element Meshes
+         link: "https://www.researchgate.net/publication/331939127_Procedures_for_the_Interpolation_of_Orientation_Distributions_from_Coarse_Grid_Experimental_Measurements_to_Fine_Grid_Finite_Element_Meshes"
+         authors: TJ Barrett, A Eghtesad, McCabe, R J., V S.C, M Knezevic
+         conference: "TMS 2018 148th Annual Meeting & Exhibition, San Antonio, Texas, March 10-14, 2019" 
+       - title: Predicting elastic anisotropy of dual phase steels based on crystal mechanics and microstructure
+         link: "https://www.sciencedirect.com/science/article/pii/S0020740318337238"
+         authors: AM Cantara, M Zecevic, A Eghtesad, CM Poulin, M Knezevic
+         conference: "International Journal of Mechanical Sciences 151, 639-649, 2019"   
+       - title: OpenMP and MPI implementations of an elasto viscoplastic fast Fourier transform based micromechanical solver for fast crystal plasticity modeling
+         link: "https://www.sciencedirect.com/science/article/pii/S0965997818304186"
+         authors: Adnan Eghtesad, Timothy J. Barrett, Kai Germaschewski, Ricardo A. Lebensohn, Rodney J. McCabe, Marko Knezevic
+         conference: "Advances in Engineering Software., 2018"
 skills:
     title: Skills &amp; Proficiency
     toolset:
