@@ -178,8 +178,8 @@ publications:
          conference: "Pennsylvania State Univ., University Park, PA (United States)"
        - title: Density functional theory-informed dislocation density hardening within crystal plasticity: Application to modeling deformation of Ni polycrystals
          link: "https://www.sciencedirect.com/science/article/pii/S0927025622005146"
-         authors: Adnan Eghtesad, John D Shimanek, Shun-Li Shang, Ricardo Lebensohn, Marko Knezevic, Zi-Kui Liu, Allison M Beese
-         conference: "Computational Materials Science 215, 111803"
+       #  authors: Adnan Eghtesad, John D Shimanek, Shun-Li Shang, Ricardo Lebensohn, Marko Knezevic, Zi-Kui Liu, Allison M Beese
+       #  conference: "Computational Materials Science 215, 111803"
        #- title: Coupling of a multi-GPU accelerated elasto-visco-plastic fast Fourier transform constitutive model with the implicit finite element method
        #  link: "#"
        #  authors: Eghtesad, Adnan and Germaschewski, Kai and Marko Knezevic 
