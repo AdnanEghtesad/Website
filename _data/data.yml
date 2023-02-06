@@ -239,7 +239,7 @@ publications:
        - title: Graphics processing unit accelerated phase field dislocation dynamics, Application to bi metallic interfaces
          link: "https://www.sciencedirect.com/science/article/pii/S0965997817309158"
          authors: Adnan Eghtesad, Kai Germaschewski, Irene J Beyerlein, Abigail Hunter, Marko Knezevic
-         conference: "Advances in Engineering Software, 2018"   \
+         conference: "Advances in Engineering Software, 2018"  
        - title: A new approach to fluid structure interaction within graphics hardware accelerated smooth particle hydrodynamics considering heterogeneous particle size distribution
          link: "https://link.springer.com/article/10.1007/s40571-017-0176-1"
          authors: Adnan Eghtesad, Marko Knezevic
