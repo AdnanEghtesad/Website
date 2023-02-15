@@ -120,6 +120,20 @@ experiences:
               ities in accurate predictions of microstructure-property-linkage, facilitating significant
               contributions to Integrated Computational Materials Engineering (ICME), furthering
               the objectives of automotive and aerospace industries.
+              title: Experience 
+    title: Volunteer
+	info:
+      - role: Research And Development Scientist (Postdoctoral Fellow)
+        time: 2022 - present
+        company: Cornell University
+        details: |
+            - Developing high performance machine/deep learning and neural network (NN) based
+              constitutive modelling to create a hybrid framework that can work on limited amount
+              of data by relying on the modularity of the constitutive formulation. Fundamental part
+              of this work is the design of experiments as well as the development of theoretical and
+              numerical frameworks to study and predict the flow response of metallic materials.
+            #- Bullet point
+            #- Bullet point
 #projects:
 #    title: Scholarly Achievements
 #    intro: >
