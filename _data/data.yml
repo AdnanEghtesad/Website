@@ -169,17 +169,15 @@ experiences:
 skills:
     title: Skills &amp; Proficiency
     toolset:
-      - name: Python & PyTorch
-        level: 98%
-
-      - name: FORTRAN & MATLAB
-        level: 98%
-
+     
       - name: High Performance Computing
-        level: 90%
-
+        level: 98%
+        
+      - name: GPU Computing
+        level: 98%
+        
       - name: Code Development (GitHub)
-        level: 80%
+        level: 98%
 
       - name: Machine & Deep Learning
         level: 80%
@@ -187,9 +185,6 @@ skills:
       - name: Multiscale Materials Modelling
         level: 98%
 
-      - name: Materials Characterization 
-        level: 50%
-        
       - name: Additively Manufactured superalloys
         level: 98%
         
@@ -201,13 +196,15 @@ skills:
 
       - name: CFD & CFX
         level: 98%
+ 
+      - name: Python & PyTorch
+        level: 98%
 
       - name: FORTRAN & MATLAB
         level: 98%
 
-      - name: GPU Computing
-        level: 98%
-        
+      - name: Materials Characterization 
+        level: 50%
         
    #toolset:
    #  - name: Python & PyTorch
