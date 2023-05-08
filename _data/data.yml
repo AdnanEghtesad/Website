@@ -62,9 +62,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: PhD in Mechanical Engineering 
-        university: University of New Hampshire 
-        time: 2016 - 2021
+      - degree: Postdoc in Mechanical & Aerospace Engineering 
+        university: Cornell University 
+        time: 2021 - present
         details: |
             - Developed novel crystal plasticity software applications using parallel hybrid CPU (cen-
               tral processing unit) – GPU (Graphics Processing Unit) framework for micromechanical
@@ -72,12 +72,12 @@ education:
               ities in accurate predictions of microstructure-property-linkage, facilitating significant
               contributions to Integrated Computational Materials Engineering (ICME), furthering
               the objectives of automotive and aerospace industries.
-      - degree: MSc in Mechanical Engineering 
-        university: Yazd University
-        time: 2008 - 2011       
-      - degree: BSc in Mechanical Engineering 
-        university: Shiraz University
-        time: 2004 - 2008
+      - degree: Postdoc in Materials Science and Engineering 
+        university: Pennsylvania State University 
+        time: 2021 - 2022       
+      - degree: PhD in Mechanical Engineering  
+        university: University of New Hampshire
+        time: 2016 - 2021
         details: |
           #Describe your study here lorem ipsum dolor sit amet, consectetuer
           #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
