@@ -67,7 +67,7 @@ education:
     info:
       - degree: Postdoc in Mechanical & Aerospace Engineering 
         university: Cornell University 
-        time: 2021 - present
+        time: 2022 - present
         details: |
             - Developed novel crystal plasticity software applications using parallel hybrid CPU (cen-
               tral processing unit) – GPU (Graphics Processing Unit) framework for micromechanical
