@@ -180,7 +180,8 @@ experiences:
 skills:
     title: Skills &amp; Proficiency
     toolset:
-      - name:   Mechanical Design & Testing   
+      - name:   Mechanical Design & Testing  
+        level:	98%
       - name:   CAD : SOLIDWORKS & Catia 
         level:	98%	   
       - name:   Finite Element (FE) Modeling 
