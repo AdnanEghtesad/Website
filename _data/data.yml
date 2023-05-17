@@ -287,6 +287,10 @@ publications:
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #      bibendum fringilla a eu lectus.
     papers:
+        - title: Machine learning-enabled identification of micromechanical stress and strain hotspots predicted via dislocation density-based crystal plasticity simulations
+         link: "https://www.sciencedirect.com/science/article/pii/S0749641923001328"
+         authors: Adnan Eghtesad, Qixiang Luo, Shun-Li Shang, Ricardo Lebensohn, Marko Knezevic, Zi-Kui Liu, Allison M Beese
+         conference: "International Journal of Plasticity,  103646, 2023 "
        - title: High Throughput Computational Framework of Materials Properties for Extreme Environments
          link: "https://www.osti.gov/biblio/1907945"
          authors: Zi-Kui Liu, Shun-Li Shang, Allison M Beese, Yi Wang, Adnan Eghtesad, John Shimanek, Shipin Qin, Shuang Lin, Hui Sun, Brandon Bocklund 
