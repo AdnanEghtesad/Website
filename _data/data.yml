@@ -180,114 +180,60 @@ experiences:
 skills:
     title: Skills &amp; Proficiency
     toolset:
-     
-      - name: High Performance Computing
-        level: 98%
-        
-      - name: GPU Computing
-        level: 98%
-        
-      - name: Code Development (GitHub)
-        level: 98%
-
-      - name: Machine & Deep Learning
-        level: 80%
-
-      - name: Multiscale Materials Modelling
-        level: 98%
-
-      - name: Additively Manufactured superalloys
-        level: 98%
-        
-      - name: SolidWorks & Catia
-        level: 98%
-
-      - name: ANSYS & ABAQUS
-        level: 98%
-
-      - name: CFD & CFX
-        level: 98%
- 
-      - name: Python & PyTorch
-        level: 98%
-
-      - name: FORTRAN & MATLAB
-        level: 98%
-
-      - name: Materials Characterization 
-        level: 50%
-        
-   #toolset:
-   #  - name: Python & PyTorch
-   #    level: 98%
-   # #- name: FORTRAN & MATLAB
-     #  level: 98%
- 
-     #- name: High Performance Computing 
-     #  level: 98%
-
-     #- name: Computer Aided Design (CAD)
-     #  level: 98%
-     #  
-     #- name: Code Development (GitHub)
-     #  level: 98%
-
-     #- name: Machine & Deep Learning
-     #  level: 98%
-     #  
-     #- name: Multiscale Materials Modelling
-     #  level: 98%
-     #   
-     #- name: Materials Characterization 
-     #  level: 50%
-     #
-     #- name: Additive Manufacturing
-     #  level: 98%
-     #
-     #- name: Metal Forming 
-     #  level: 98%
-     #
-     #- name: Additive Manufacturing
-     #  level: 98%
-     #
-     #- name: SolidWorks & Catia
-     #  level: 98%
-     #
-     #- name: ANSYS & ABAQUS
-     #  level: 98%
-     #
-     #- name: CFD & CFX
-     #  level: 98%
-     #
-     #- name: FORTRAN & MATLAB
-     #  level: 98%
-     #
-     #- name: GPU Computing
-     #  level: 98%
-     #
-     #- name: Communication skills 
-     #  level: 98%
-     #
-     #- name: Mentorship & Leadership  
-     #  level: 98%
-     #
-     #- name: Data Analysis 
-     #  level: 98%
-     #
-     #- name: Technical Writing 
-     #  level: 98%
-     #
-     #- name: Project Management 
-     #  level: 98%
-     #
-     #- name: People Management 
-     #  level: 98%
-     #
-     #- name: Collaboration skills
-     #  level: 98%
-     #
-     #- name: Presentation skills 
-     #  level: 98%
+      - name:   Mechanical Design & Testing   
+      - name:   CAD : SOLIDWORKS & Catia 
+        level:	98%	   
+      - name:   Finite Element (FE) Modeling 
+        level:	98%
+      - name:   Computational Fluid Dynamics 
+        level:	98%
+      - name:   Ansys, Abaqus, CFD/CFX, Fluent  
+        level:	98%
+      - name:  Computational Mechanics & ICME   
+        level:	98%
+      - name:   Mechanics of Advanced Materials  
+        level:	98%
+      - name:   Mechanics of Metals and Alloys   
+        level:	98%
+      - name:   Crystal Plasticity & Microstructure 
+        level:	98%
+      - name:  Structure- name: Property- name: Relationships  
+        level:	98%
+      - name:  Materials/Metals Characterization  
+        level:	98%
+      - name:  Advanced Microscopy (SEM, EBSD) 
+        level:	98%
+      - name:   Software Development with Github 
+        level:	98%
+      - name:   FORTRAN, C, MATLAB,  Python  
+        level:	98%
+      - name:   Data Analysis & Data Science 
+        level:	98%
+      - name:   Machine Learning (ML)  
+        level:	98%
+      - name:   Deep Neural Networks (NN) 
+        level:	98%
+      - name:   Scikit- name: learn & PyTorch
+        level:	98%
+      - name:  Distributed Parallel Computing 
+        level:	98%
+      - name:   HPC & GPU Computing   
+        level:	98%
+      - name:  GPU Computing  
+        level:	98%
+      - name:  PyCharm & Spyder  
+        level:	98%
+      - name:  Data Analysis  
+        level:	98%
+      - name:  Linux skills  
+        level:	98%
+      - name:  Technical writing 
+        level:	98%
+      - name:   Mentorship & Leadership 
+        level:	98%
+      - name:   Project/People Management       
+      
+         
 publications:
     title: Publications
     intro: |
