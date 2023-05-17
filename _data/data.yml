@@ -121,6 +121,13 @@ experiences:
               ities in accurate predictions of microstructure-property-linkage, facilitating significant
               contributions to Integrated Computational Materials Engineering (ICME), furthering
               the objectives of automotive and aerospace industries.
+      - role: Design Engineer
+        time: 2011 - 2016
+        company: Iran´s National Elites Foundation (INEF)                                                                                                                       
+        details: |
+            - Designed and optimized composite structures using ANSYS Workbench and Particle methods that resulted in improved strength by 40%. 
+            - Optimized strength of elastomer components of a ship using ANSYS Workbench and CFX that resulted in enhanced stiffness by 25% and lowered the manufacturing cost by 50% 
+            - Performed stress analysis and design optimization of a bridge structure using ANSYS Workbench followed by structural 60% weight reduction      
 #projects:
 #    title: Scholarly Achievements
 #    intro: >
