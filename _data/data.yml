@@ -188,13 +188,16 @@ skills:
        
        - name: Finite Element (FE) Modeling 
          level:	98%
+         
+       - name: Ansys & Abaqus 
+         level:	98%
         
-       - name: Computational Fluid Dynamics 
+       - name: Computational Fluid Dynamics (CFD) 
          level:	98%
          
-       - name: Ansys, Abaqus, CFD/CFX, Fluent  
+       - name: CFX & Fluent  
          level:	98%
-         
+               
        - name: Computational Mechanics & ICME   
          level:	98%
          
