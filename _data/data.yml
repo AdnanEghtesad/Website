@@ -182,58 +182,61 @@ skills:
     toolset:
       - name:   Mechanical Design & Testing  
         level:	98%
+        
       - name:   CAD : SOLIDWORKS & Catia 
         level:	98%	   
+        
       - name:   Finite Element (FE) Modeling 
         level:	98%
-      - name:   Computational Fluid Dynamics 
-        level:	98%
-      - name:   Ansys, Abaqus, CFD/CFX, Fluent  
-        level:	98%
-      - name:  Computational Mechanics & ICME   
-        level:	98%
-      - name:   Mechanics of Advanced Materials  
-        level:	98%
-      - name:   Mechanics of Metals and Alloys   
-        level:	98%
-      - name:   Crystal Plasticity & Microstructure 
-        level:	98%
-      - name:  Structure- name: Property- name: Relationships  
-        level:	98%
-      - name:  Materials/Metals Characterization  
-        level:	98%
-      - name:  Advanced Microscopy (SEM, EBSD) 
-        level:	98%
-      - name:   Software Development with Github 
-        level:	98%
-      - name:   FORTRAN, C, MATLAB,  Python  
-        level:	98%
-      - name:   Data Analysis & Data Science 
-        level:	98%
-      - name:   Machine Learning (ML)  
-        level:	98%
-      - name:   Deep Neural Networks (NN) 
-        level:	98%
-      - name:   Scikit- name: learn & PyTorch
-        level:	98%
-      - name:  Distributed Parallel Computing 
-        level:	98%
-      - name:   HPC & GPU Computing   
-        level:	98%
-      - name:  GPU Computing  
-        level:	98%
-      - name:  PyCharm & Spyder  
-        level:	98%
-      - name:  Data Analysis  
-        level:	98%
-      - name:  Linux skills  
-        level:	98%
-      - name:  Technical writing 
-        level:	98%
-      - name:   Mentorship & Leadership 
-        level:	98%
-      - name:   Project/People Management       
-        level:	98%
+        
+     #- name:   Computational Fluid Dynamics 
+     #  level:	98%
+     #- name:   Ansys, Abaqus, CFD/CFX, Fluent  
+     #  level:	98%
+     #- name:  Computational Mechanics & ICME   
+     #  level:	98%
+     #- name:   Mechanics of Advanced Materials  
+     #  level:	98%
+     #- name:   Mechanics of Metals and Alloys   
+     #  level:	98%
+     #- name:   Crystal Plasticity & Microstructure 
+     #  level:	98%
+     #- name:  Structure- name: Property- name: Relationships  
+     #  level:	98%
+     #- name:  Materials/Metals Characterization  
+     #  level:	98%
+     #- name:  Advanced Microscopy (SEM, EBSD) 
+     #  level:	98%
+     #- name:   Software Development with Github 
+     #  level:	98%
+     #- name:   FORTRAN, C, MATLAB,  Python  
+     #  level:	98%
+     #- name:   Data Analysis & Data Science 
+     #  level:	98%
+     #- name:   Machine Learning (ML)  
+     #  level:	98%
+     #- name:   Deep Neural Networks (NN) 
+     #  level:	98%
+     #- name:   Scikit- name: learn & PyTorch
+     #  level:	98%
+     #- name:  Distributed Parallel Computing 
+     #  level:	98%
+     #- name:   HPC & GPU Computing   
+     #  level:	98%
+     #- name:  GPU Computing  
+     #  level:	98%
+     #- name:  PyCharm & Spyder  
+     #  level:	98%
+     #- name:  Data Analysis  
+     #  level:	98%
+     #- name:  Linux skills  
+     #  level:	98%
+     #- name:  Technical writing 
+     #  level:	98%
+     #- name:   Mentorship & Leadership 
+     #  level:	98%
+     #- name:   Project/People Management       
+     #  level:	98%
          
 publications:
     title: Publications
