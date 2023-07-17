@@ -268,10 +268,10 @@ publications:
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #      bibendum fringilla a eu lectus.
     papers:
-       - title: NN-EVP: A physics informed neural network-based elasto-viscoplastic framework for predictions of grain size-aware flow response under large deformations
+       - title: NN-EVP, A physics informed neural network-based elasto-viscoplastic framework for predictions of grain size-aware flow response under large deformations
          link: "https://arxiv.org/abs/2307.04301"
          authors: Adnan Eghtesad, Jan Niklas Fuhg, Nikolaos Bouklas
-         conference: "arXiv preprint arXiv:2307.04301 "
+         conference: "arXiv preprint, 2024 "
        - title: Machine learning-enabled identification of micromechanical stress and strain hotspots predicted via dislocation density-based crystal plasticity simulations
          link: "https://www.sciencedirect.com/science/article/pii/S0749641923001328"
          authors: Adnan Eghtesad, Qixiang Luo, Shun-Li Shang, Ricardo Lebensohn, Marko Knezevic, Zi-Kui Liu, Allison M Beese
